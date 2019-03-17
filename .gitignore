@@ -1,0 +1,34 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### Maven ###
+/.mvn/
+mvnw
+mvnw.cmd
+
+### Other ###
+/target/
+*.DS_STORE
+
+/src/main/resources/client_secrets.json
+/src/main/resources/youtube.properties
